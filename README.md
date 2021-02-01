@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=200&section=header&text=%20Django%20&fontSize=70&textBg=false&animation=fadeIn)
+<!--![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=200&section=header&text=%20Django%20&fontSize=70&textBg=false&animation=fadeIn)
 ### Hi there 👋
 I’m currently learning Django developement<br>
 You can observe 5 projects, 6th will be added soon<br>
 🇩​​​​​🇯​​​​​🇦​​​​​🇳​​​​​🇬​​​​​🇴​​​​​<br>
 
-<!--
+
 **girgenson/girgenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
